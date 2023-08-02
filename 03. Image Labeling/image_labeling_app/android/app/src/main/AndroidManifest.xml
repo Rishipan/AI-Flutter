@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.image_labeling_app">
    <application
-        android:label="image_labeling_app"
+        android:label="ImageLabeling"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
